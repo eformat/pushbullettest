@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "promise": "^7.0.4",
-    "request": "^2.61.0"
+    "request": "^2.61.0",
+    "websocket": "^1.0.21"
   }
 }
